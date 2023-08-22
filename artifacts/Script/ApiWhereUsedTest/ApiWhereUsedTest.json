@@ -1,0 +1,28 @@
+{
+	"id": "2d560424-c940-ee11-9ef5-b03cdca73631",
+	"createdAt": "2023-08-22T08:51:54.203Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [
+		{
+			"id": "b64963da-1d94-4171-a58c-83e86366223b",
+			"parent": "101382e9-c840-ee11-9ef5-b03cdca73631",
+			"name": "/apiwhereusedbug",
+			"contextname": "apiwhereusedbug",
+			"method": "GET"
+		}
+	],
+	"name": "ApiWhereUsedTest",
+	"ver": "23.8.22.1053",
+	"description": null,
+	"content": "file:///content.js",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "2e747b1c-c940-ee11-9ef5-b03cdca73631",
+	"package": "550916be-c840-ee11-9ef5-b03cdca73631"
+}

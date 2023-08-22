@@ -1,0 +1,73 @@
+{
+	"id": "550916be-c840-ee11-9ef5-b03cdca73631",
+	"createdAt": "2023-08-22T08:49:03.193Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/sveingunnarlarsen/ApiWhereUsedBug.git"
+	},
+	"name": "ApiWhereUsedBug",
+	"description": null,
+	"ver": "23.8.22.1057",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "de11e2f9-c840-ee11-9ef5-b03cdca73631",
+			"application": "apiwhereusedbug",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [
+		{
+			"id": "101382e9-c840-ee11-9ef5-b03cdca73631",
+			"name": "API apiwhereusedbug",
+			"description": null,
+			"apiGroup": null
+		}
+	],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [
+		{
+			"id": "8ded96d7-c840-ee11-9ef5-b03cdca73631",
+			"name": "apiwhereusedbug",
+			"description": null
+		}
+	],
+	"jsclass": [
+		{
+			"id": "2d560424-c940-ee11-9ef5-b03cdca73631",
+			"name": "ApiWhereUsedTest",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "2e747b1c-c940-ee11-9ef5-b03cdca73631",
+			"name": "ApiWhereUsedBug",
+			"description": ""
+		}
+	],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}

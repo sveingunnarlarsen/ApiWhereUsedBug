@@ -1,0 +1,24 @@
+{
+	"id": "8ded96d7-c840-ee11-9ef5-b03cdca73631",
+	"createdAt": "2023-08-22T08:49:46.316Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"fields": [
+		{
+			"id": "e5d6dc43-e818-43e6-8f72-545d2dfc381a",
+			"fieldName": "one",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "apiwhereusedbug",
+	"description": null,
+	"ver": "23.8.22.1049",
+	"enableAudit": false,
+	"includeDataInPackage": false,
+	"package": "550916be-c840-ee11-9ef5-b03cdca73631",
+	"rolesRead": [],
+	"rolesWrite": []
+}
